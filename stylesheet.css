@@ -26,12 +26,12 @@
 
 @font-face {
     font-family: "Kingthings Italic";
-    src: url("Fonts/Kingthings-Italique/Kingthings_Italique.ttf");
+    src: url("Kingthings_Italique.ttf");
 }
 
 @font-face {
     font-family: "Exo Light";
-    src: url("Fonts/exo/Exo-Light.otf");
+    src: url("Exo-Light.otf");
 }
 
 @media screen and (max-width: 500px) {
@@ -268,7 +268,7 @@ nav{
     width: 95%;
     margin: 50px auto;
     border-radius: 15px;
-    background-image: url("images/hero-img.png");
+    background-image: url("hero-img.png");
     background-attachment: local;
     background-size: cover;
     animation: pulse 4s ease-in-out;
